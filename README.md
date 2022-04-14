@@ -1,4 +1,6 @@
 printf()
+
+
 The printf project is a collaboration between Lucy Mutuota and Mark Mutuota, actual students of ALX Software Engineering Program, were a function named "_printf" imitates the actual "printf" command located in the stdio.h library. It contains some of the basic features and functions found in the manual 3 of "printf".
 
 
