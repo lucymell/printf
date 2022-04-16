@@ -28,14 +28,15 @@ If the program runs successfully, the return value is the amount of chars printe
 | s | string of character |
 | b | signed binary |
 | o | signed octal |
-u	Unsigned integer
-x	Unsigned hexadecimal
-X	Unsigned hexadecimal (uppercase)
-p	Pointer address
-r	Reverse string of characters
-R	ROT13 translation of string
-S	String with special chars replaced by their ASCII value
-%	Character
+| u | unsigned integer |
+| x | unsigned hexadecimal |
+| X | unsigned hexadecimal (uppercase) |
+| p | pointer address |
+| r | Reverse string of characters |
+| R | ROT13 translation of string |
+| S | String with special chars replaced by their ASCII value |
+| % | character |
+
 Flags	Description	Specifiers
 +	Prints a plus sign (+) when the argument is a positive number. In other case, prints a minus sign (-).	i, d
 (space)	Prints a blank space if the argument is a positive number	i, d
