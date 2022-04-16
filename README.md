@@ -49,7 +49,7 @@ Use: ```_printf("Hello Hol%s.", "berton");```
 Output:``` Hello Holberton.```
 
 Printing an integer number:
-Use:``` _printf("10 + 10 is equal to %d.", 20);```
+Use:``` _printf("10 + 10 is equal to %d.", 20);```<br/>
 Output:``` 10 + 10 is equal to 20.```
 
 Printing a binary, octal and hexadecimal:
