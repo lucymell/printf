@@ -22,7 +22,7 @@ The format tags prototype is the following:
 If the program runs successfully, the return value is the amount of chars printed.
 
 | Specifier | output |
-| ------------ | ----------- |
+| - | ----------- |
 | c | character |
 | d or i | signal decimal integer |
 | s | string of character |
