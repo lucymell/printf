@@ -45,7 +45,7 @@ h	Prints a short int or unsigned short int	i, d, o, u, x and X
 # Examples
 Printing the string of chars "Hello, Holberton":
 
-Use: ```_printf("Hello Hol%s.", "berton");```
+Use: ```_printf("Hello Hol%s.", "berton");```<br/>
 Output:``` Hello Holberton.```
 
 Printing an integer number:
