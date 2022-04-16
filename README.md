@@ -21,12 +21,13 @@ The format tags prototype is the following:
 
 If the program runs successfully, the return value is the amount of chars printed.
 
-Specifier	Output
-c	Character
-d or i	Signed decimal integer
-s	String of characters
-b	Signed binary
-o	Signed octal
+| Specifier | output |
+| ------------ | ----------- |
+| c | character |
+| d or i | signal decimal integer |
+| s | string of character |
+| b | signed binary |
+| o | signed octal |
 u	Unsigned integer
 x	Unsigned hexadecimal
 X	Unsigned hexadecimal (uppercase)
